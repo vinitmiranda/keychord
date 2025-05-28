@@ -1,0 +1,37 @@
+{
+    "304": {  
+        "name": "BTN_A",
+        "midi_notes": [36],
+        "channel": 0
+    },
+    "305": {  
+        "name": "BTN_B",
+        "midi_notes": [38],
+        "channel": 0
+    },
+    "307": {  
+        "name": "BTN_X",
+        "midi_notes": [43],
+        "channel": 0
+    },
+    "308": {  
+        "name": "BTN_Y",
+        "midi_notes": [50],
+        "channel": 0
+    },
+    "310": {  
+        "name": "BTN_TL",
+        "midi_notes": [42],
+        "channel": 0
+    },
+    "311": {  
+        "name": "BTN_TR",
+        "midi_notes": [46],
+        "channel": 0
+    },
+    "314": {  
+        "name": "BTN_SELECT",
+        "midi_notes": [39],
+        "channel": 0
+    }
+}
