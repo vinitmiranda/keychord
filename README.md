@@ -6,6 +6,6 @@ The mapping of key code to chord is provided in the constant CODE_CHORD_MAP in s
 
 # Tips
 
-For making a raspberry pi a BLE Midi compatible.
+For making linux devices BLE Midi compatible.
 
 https://github.com/Arkq/bluez-alsa
